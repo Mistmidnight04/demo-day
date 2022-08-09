@@ -1,0 +1,52 @@
+.button {
+    background-color: #32cd32; /* Green */
+    border: 1px solid #01ff23;
+    color: white;
+    padding: 20px 42px;
+    border-radius: 10px;
+    box-shadow : -2px 3px 2px rgba(0,0,0,.8);
+    cursor: pointer;
+    margin-left: 60%;
+    margin-top: 3%;
+    font-size: large;
+  }
+  .button:hover {
+    background: #008000;
+    box-shadow : -4px 5px 4px rgba(0,0,0,.8);
+    transition: all 0.5s;
+    border: 1px solid #006400;
+  }
+
+  #select {
+    margin-left: 0%;
+  }
+
+
+#text {
+    line-height: 180%;
+    margin-left: 20%;
+    
+}
+
+form {
+    margin-left: 20%;
+    font-size: 150%;
+}
+
+.questions {
+margin-left: 15%;
+margin-top: 15%;
+
+}
+
+#one {
+
+}
+
+#two {
+
+}
+
+#three {
+margin-top: 10%;
+}
